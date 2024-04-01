@@ -1,8 +1,9 @@
 import 'dart:typed_data';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:fullstack_instagram_clone/Entity/User.dart';
-import 'package:fullstack_instagram_clone/resources/storages_mothods.dart';
+import 'package:fullstack_instagram_clone/Entity/User.dart' as model;
+import 'package:fullstack_instagram_clone/resources/storages_mothods.dart' ;
+
 
 
 class AuthMethods {
