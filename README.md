@@ -1,6 +1,6 @@
 ## fullstack_instagram_clone ##
 
-Developed a full-stack web application replicating core features of Instagram, including user authentication, photo sharing, commenting, and following functionalities. Utilized React for the front-end, Node.js/Express for the back-end, and MongoDB for database management. Integrated Cloudinary API for image uploads and JWT authentication for secure user sessions. Deployed the application on Heroku with a responsive design optimized for both mobile and desktop views.
+Developed a full-stack Instagram clone  replicating core features of Instagram, including user authentication, photo sharing, commenting, and following functionalities. Utilized Flutter and Dart.
 
 ## Core Skills ##
 
